@@ -1,8 +1,8 @@
 Hi, I’m Ihor :raccoon:.
 
 A little bit about me:
-- I'm a Facade Engineer :building_construction:. Now I'm trying to switch my profession and get a Junior Python Developer job.
-- Interested in Python, Django, Web Development, Data Visualization, ML, Process Automation, and everything related to computers :computer:.
+- I'm a Facade Engineer :building_construction:. Now I'm trying to switch my profession and get a Junior Python Developer job :technologist:.
+- Interested in Python, Django, Web Development, Data Visualization, Process Automation, and everything related to computers :computer:.
 - Motivated to learn new technologies and use them in practice.
 
 
